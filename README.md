@@ -66,7 +66,7 @@ python -m ipykernel install --user --name musictransformer --display-name "Pytho
 | [第四章 **Transformer** 架构模型应用 **- MusicGen**](https://datawhalechina.github.io/musiclm-universe/MusicGen_Colab/)                 | [**4.1 MusicGen** 部署及使用](https://datawhalechina.github.io/musiclm-universe/MusicGen_Colab/) <br> [**4.2 MusicGen** 开源代码分析](https://datawhalechina.github.io/musiclm-universe/MusicGen_Codebase_Analysis/)  | 
 | [第五章 **Diffusion** 架构模型应用 **- Diffrhythm2**](https://datawhalechina.github.io/musiclm-universe/DiffRhythm2_Colab/) | [**5.1 Diffrhythm2** 部署及使用](https://datawhalechina.github.io/musiclm-universe/DiffRhythm2_Colab/) <br> [**5.2 Diffrhythm2** 开源代码分析](https://datawhalechina.github.io/musiclm-universe/DiffRhythm2_Codebase_Analysis/)   |
 | [第六章 **Transformer & Diffusion** 架构模型应用 **- ACE-Step**](https://datawhalechina.github.io/musiclm-universe/ACE-Step_Setup_and_Usage/)                             | [**6.1 ACE-Step** 部署及使用](https://datawhalechina.github.io/musiclm-universe/ACE-Step_Setup_and_Usage/) <br> [**6.2 ACE-Step 1.5** 开源代码分析](https://datawhalechina.github.io/musiclm-universe/ACE-Step_Codebase_Analysis/) |
-| 进阶部分：音乐生成与音效融合实践（预计于下一次组队学习开启）  | 完整源码放于[**MusicSFX-Fusion**](https://github.com/minigenepig/MusicSfx-Fusion)仓库              
+| 进阶部分：音乐生成与音效融合实践（招募教程撰写和测试的同学）  | 完整源码放于[**MusicSFX-Fusion**](https://github.com/minigenepig/MusicSfx-Fusion)仓库              
 | 项目后续内容贡献者招募中~  | 联系[负责人](https://github.com/minigenepig/minigenepig/blob/main/images/contact.md) 欢迎任意贡献！|
 
 
